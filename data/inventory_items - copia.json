@@ -1,0 +1,77 @@
+{
+    "3000_bits_free": {
+        "type": "useless",
+        "name_full": "Has comprado muchos bits",
+        "img": "/ponyplace/media/store/free-bits.png"
+    },
+    "roombg_cherry_jubilees_guest_room": {
+        "type": "house_background",
+        "name_full": "Sala de estar de Cherry Jubilee",
+        "img": "/ponyplace/media/rooms/house/cherry-jubilees-guest-room.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/cherry-jubilees-guest-room.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_pinkies_room": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Sala de Pinkie",
+        "img": "/ponyplace/media/rooms/house/pinkies-room.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/pinkies-room.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_canterlot_bedroom": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Sala de Canterlot",
+        "img": "/ponyplace/media/rooms/house/canterlot-bedroom.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/canterlot-bedroom.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_dashies_bedroom": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Sala de Dashie",
+        "img": "/ponyplace/media/rooms/house/dashies-bedroom.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/dashies-bedroom.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_shining_armors_apartments": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Apartamento de Shining Armor",
+        "img": "/ponyplace/media/rooms/house/shining-armors-apartments.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/shining-armors-apartments.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_princess_celestias_room": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Sala de la Princesa Celestia",
+        "img": "/ponyplace/media/rooms/house/princess-celestias-room.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/princess-celestias-room.png",
+            "width": 1178,
+            "height": 660
+        }
+    },
+    "roombg_madam_pinkies_tent": {
+        "type": "house_background",
+        "name_full": "Background de Casa - Tienda de Madame Pinkie",
+        "img": "/ponyplace/media/rooms/house/madam-pinkies-tent.png",
+        "background_data": {
+            "data": "/ponyplace/media/rooms/house/madam-pinkies-tent.png",
+            "width": 1173,
+            "height": 660
+        }
+    }
+}

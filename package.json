@@ -1,0 +1,13 @@
+{
+    "name": "gemplace",
+    "version": "4.2.0",
+	"description": "gem place",
+	"main": "server.js",
+    "dependencies": {
+        "websocket": "1.0.7",
+        "keypress": "0.1.0"
+    },
+  "engines" : {
+    "node": "0.8.18"
+  }
+}

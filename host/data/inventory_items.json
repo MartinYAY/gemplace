@@ -1,0 +1,89 @@
+{
+    "3000_bits_free": {
+        "type": "useless",
+        "name_full": "You have many bits",
+        "img": "/gemplace/media/store/free-bits.png"
+    },
+     "effect_shrink": {
+         "type": "effect",
+         "name_full": "Shrink Avatar",
+         "img": "/gemplace/media/items/effect-shrink.png",
+         "effect": "effect_shrink"
+     },
+     "effect_unshrink": {
+         "type": "effect",
+         "name_full": "Unshrink Avatar",
+         "img": "/gemplace/media/items/effect-unshrink.png",
+         "effect": null
+     },
+    "roombg_cherry_jubilees_guest_room": {
+        "type": "house_background",
+        "name_full": "Cherry Jubilee's guest room",
+        "img": "/gemplace/media/rooms/house/cherry-jubilees-guest-room.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/cherry-jubilees-guest-room.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_pinkies_room": {
+        "type": "house_background",
+        "name_full": "Pinkie's room",
+        "img": "/gemplace/media/rooms/house/pinkies-room.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/pinkies-room.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_canterlot_bedroom": {
+        "type": "house_background",
+        "name_full": "Canterlot Bedroom",
+        "img": "/gemplace/media/rooms/house/canterlot-bedroom.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/canterlot-bedroom.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_dashies_bedroom": {
+        "type": "house_background",
+        "name_full": "Dashie's bedroom",
+        "img": "/gemplace/media/rooms/house/dashies-bedroom.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/dashies-bedroom.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_shining_armors_apartments": {
+        "type": "house_background",
+        "name_full": "Shining Armor's Apartments",
+        "img": "/gemplace/media/rooms/house/shining-armors-apartments.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/shining-armors-apartments.png",
+            "width": 1173,
+            "height": 660
+        }
+    },
+    "roombg_princess_celestias_room": {
+        "type": "house_background",
+        "name_full": "Princess Celestia's room",
+        "img": "/gemplace/media/rooms/house/princess-celestias-room.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/princess-celestias-room.png",
+            "width": 1178,
+            "height": 660
+        }
+    },
+    "roombg_madam_pinkies_tent": {
+        "type": "house_background",
+        "name_full": "Madame Pinkie's Tent",
+        "img": "/gemplace/media/rooms/house/madam-pinkies-tent.png",
+        "background_data": {
+            "data": "/gemplace/media/rooms/house/madam-pinkies-tent.png",
+            "width": 1173,
+            "height": 660
+        }
+    }
+}

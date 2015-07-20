@@ -1,0 +1,1334 @@
+{
+	"crystalgems": [
+        {
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "steven"
+                }
+            ],
+            "name_full": "Steven Universe",
+            "price": 50,
+            "img": "/gemplace/media/avatars/steven_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "newgarnet"
+                }
+            ],
+            "name_full": "Post-regeneration Garnet",
+            "price": 50,
+            "img": "/gemplace/media/avatars/newgarnet_select.png"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "newpearl"
+                }
+            ],
+            "name_full": "Post-regeneration Pearl",
+            "price": 50,
+            "img": "/gemplace/media/avatars/newpearl_select.png"
+        },
+				{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "newamethyst"
+                }
+            ],
+            "name_full": "Post-regeneration Amethyst",
+            "price": 50,
+            "img": "/gemplace/media/avatars/newamethyst_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "rose"
+                }
+            ],
+            "name_full": "Rose Quartz",
+            "price": 50,
+            "img": "/gemplace/media/avatars/rose_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sapphire"
+                }
+            ],
+            "name_full": "Sapphire",
+            "price": 50,
+            "img": "/gemplace/media/avatars/sapphire_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "ruby"
+                }
+            ],
+            "name_full": "Ruby",
+            "price": 50,
+            "img": "/gemplace/media/avatars/ruby_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lion"
+                }
+            ],
+            "name_full": "Lion",
+            "price": 50,
+            "img": "/gemplace/media/avatars/lion_select.png"
+        }
+	],
+    "homeworldgems": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "peridot"
+                }
+            ],
+            "name_full": "Peridot",
+            "price": 420,
+            "img": "/gemplace/media/avatars/peridot_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "jasper"
+                }
+            ],
+            "name_full": "Jasper",
+            "price": 50,
+            "img": "/gemplace/media/avatars/jasper_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lapis"
+                }
+            ],
+            "name_full": "Lapis Lazuli",
+            "price": 50,
+            "img": "/gemplace/media/avatars/lapis_select.png"
+        }
+    ],
+    "smoll": [
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "garnet"
+                }
+            ],
+            "name_full": "Garnet",
+            "price": 50,
+            "img": "/gemplace/media/avatars/garnet_select.png"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "pearl"
+                }
+            ],
+            "name_full": "Pearl",
+            "price": 50,
+            "img": "/gemplace/media/avatars/pearl_select.png"
+        },
+				{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "amethyst"
+                }
+            ],
+            "name_full": "Amethyst",
+            "price": 50,
+            "img": "/gemplace/media/avatars/amethyst_select.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "younggreg"
+                }
+            ],
+            "name_full": "Mr. Universe",
+            "price": 50,
+            "img": "/gemplace/media/avatars/younggreg_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "younggarnet"
+                }
+            ],
+            "name_full": "Young Garnet",
+            "price": 50,
+            "img": "/gemplace/media/avatars/younggarnet_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "youngpearl"
+                }
+            ],
+            "name_full": "Young Pearl",
+            "price": 50,
+            "img": "/gemplace/media/avatars/youngpearl_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "youngamethyst"
+                }
+            ],
+            "name_full": "Young Amethyst",
+            "price": 50,
+            "img": "/gemplace/media/avatars/youngamethyst_select.png"
+        }
+    ],
+    "humans1": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "greg"
+                }
+            ],
+            "name_full": "Greg Universe",
+            "price": 50,
+            "img": "/gemplace/media/avatars/greg_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "connie"
+                }
+            ],
+            "name_full": "Connie Maheswaran",
+            "price": 50,
+            "img": "/gemplace/media/avatars/connie_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lars"
+                }
+            ],
+            "name_full": "Lars",
+            "price": 50,
+            "img": "/gemplace/media/avatars/lars_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sadie"
+                }
+            ],
+            "name_full": "Sadie",
+            "price": 50,
+            "img": "/gemplace/media/avatars/sadie_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "peedee"
+                }
+            ],
+            "name_full": "Peedee Fryman",
+            "price": 50,
+            "img": "/gemplace/media/avatars/peedee_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "ronaldo"
+                }
+            ],
+            "name_full": "Ronaldo Fryman",
+            "price": 50,
+            "img": "/gemplace/media/avatars/ronaldo_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "onion"
+                }
+            ],
+            "name_full": "oNiOn..",
+            "price": 50,
+            "img": "/gemplace/media/avatars/onion_select.png"
+        }
+    ],
+    "fusiongems": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "alexandrite"
+                }
+            ],
+            "name_full": "Alexandrite",
+            "price": 500,
+            "img": "/gemplace/media/avatars/alexandrite_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "rainbowquartz"
+                }
+            ],
+            "name_full": "Rainbow Quartz",
+            "price": 500,
+            "img": "/gemplace/media/avatars/rainbowquartz_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "stevonnie"
+                }
+            ],
+            "name_full": "Stevonnie",
+            "price": 500,
+            "img": "/gemplace/media/avatars/stevonnie_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sugilite"
+                }
+            ],
+            "name_full": "Sugilite",
+            "price": 500,
+            "img": "/gemplace/media/avatars/sugilite_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "opal"
+                }
+            ],
+            "name_full": "Opal",
+            "price": 500,
+            "img": "/gemplace/media/avatars/opal_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sardonyx"
+                }
+            ],
+            "name_full": "Sardonyx",
+            "price": 500,
+            "img": "/gemplace/media/avatars/sardonyx_select.png"
+        }
+    ],
+    "spooky": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "snoopdogg"
+                }
+            ],
+            "name_full": "Snoop Dogg",
+            "price": 420,
+            "img": "/gemplace/media/avatars/snoop_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "alien"
+                }
+            ],
+            "name_full": "when u Mom com home and make hte spagheti",
+            "price": 321,
+            "img": "/gemplace/media/avatars/alien_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "shrek"
+                }
+            ],
+            "name_full": "Shrek",
+            "price": 123,
+            "img": "/gemplace/media/avatars/shrek_select.png"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "skeleton"
+                }
+            ],
+            "name_full": "Spooky Scary Skeleton",
+            "price": 666,
+            "img": "/gemplace/media/avatars/skeleton_select.png"
+        }
+    ],
+    "coolkids": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sourcream"
+                }
+            ],
+            "name_full": "Sour Cream",
+            "price": 50,
+            "img": "/gemplace/media/avatars/sourcream_select.png"
+        }
+    ],
+    "sugarcube_corner": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "crazypie"
+                }
+            ],
+            "name_full": "Pinkamena Diane Pie",
+            "price": 50,
+            "img": "/gemplace/media/avatars/crazypie_right.gif"
+        },
+                {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "poundcake"
+                }
+            ],
+            "name_full": "Pound Cake",
+            "price": 27,
+            "img": "/gemplace/media/avatars/poundcake-blinksl.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillypinkiepie"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillypinkiepie2"
+                }
+            ],
+            "name_full": "Filly Pinkie Pie",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillypinkiepie_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "gummy"
+                }
+            ],
+            "name_full": "Gummy",
+            "price": 50,
+            "img": "/gemplace/media/avatars/gummy_right.gif"
+        }
+    ],
+	"eqg": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgapplejack"
+                }
+            ],
+            "name_full": "Applejack (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgapplejack-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgpinkie"
+                }
+            ],
+            "name_full": "Pinkie Pie (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/EQGpinkie-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgtwilight"
+                }
+            ],
+            "name_full": "Twilight Sparkle (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgtwi-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgrainbow"
+                }
+            ],
+            "name_full": "Rainbow Dash (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgrainbow-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgfluttershy"
+                }
+            ],
+            "name_full": "Fluttershy (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgfluttershy-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgrarity"
+                }
+            ],
+            "name_full": "Rarity (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgrarity-super-right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "eqgspike"
+                }
+            ],
+            "name_full": "Spike (EQG)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/eqgspike-idle-right.gif"
+        }
+    ],
+    "dungeon": [
+        {
+            "name_full": "Free bits",
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "3000_bits_free"
+                }
+            ],
+            "price": -420000,
+            "img": "/gemplace/media/store/free-bits.png"
+        }
+    ],
+    "discordville": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "discord"
+                }
+            ],
+            "name_full": "Discord",
+            "price": 50,
+            "img": "/gemplace/media/avatars/discord_right.gif"
+        }
+    ],
+	"fluttershycottage": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "angel"
+                }
+            ],
+            "name_full": "Angel",
+            "price": 50,
+            "img": "/gemplace/media/avatars/angel_right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyfluttershy"
+                }
+            ],
+            "name_full": "Filly Fluttershy",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillyfluttershy_right.gif"
+        }
+    ],
+    "library": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spike"
+                }
+            ],
+            "name_full": "Spike",
+            "price": 50,
+            "img": "/gemplace/media/avatars/spike_right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "owlowiscious"
+                }
+            ],
+            "name_full": "Owlowiscious",
+            "price": 50,
+            "img": "/gemplace/media/avatars/owlowiscious_idle_right.gif"
+        }
+    ],
+	"everfree": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "manticore"
+                }
+            ],
+            "name_full": "Manticore",
+            "price": 50,
+            "img": "/gemplace/media/avatars/manticore-idle-right.gif"
+        }
+    ],
+    "zecoras_house": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "zecora"
+                }
+            ],
+            "name_full": "Zecora",
+            "price": 50,
+            "img": "/gemplace/media/avatars/zecora_right.gif"
+        }
+    ],
+    "classroom": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "snips"
+                }
+            ],
+            "name_full": "Snips",
+            "price": 50,
+            "img": "/gemplace/media/avatars/snips_stand_left.gif"
+        },        
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "snails"
+                }
+            ],
+            "name_full": "Snails",
+            "price": 50,
+            "img": "/gemplace/media/avatars/snails_stand_left.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "cheerilee"
+                }
+            ],
+            "name_full": "Cheerilee",
+            "price": 50,
+            "img": "/gemplace/media/avatars/cheerilee_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "diamondtiara"
+                }
+            ],
+            "name_full": "Diamond Tiara",
+            "price": 50,
+            "img": "/gemplace/media/avatars/diamondtiara_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "silverspoon"
+                }
+            ],
+            "name_full": "Silver Spoon",
+            "price": 50,
+            "img": "/gemplace/media/avatars/silverspoon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "scootaloo"
+                }
+            ],
+            "name_full": "Scootaloo",
+            "price": 50,
+            "img": "/gemplace/media/avatars/scootaloo_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sweetiebelle"
+                }
+            ],
+            "name_full": "Sweetie Belle",
+            "price": 50,
+            "img": "/gemplace/media/avatars/sweetiebelle_right.gif"
+        }
+    ],
+    "cloudsdale": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "gilda"
+                }
+            ],
+            "name_full": "Gilda",
+            "price": 50,
+            "img": "/gemplace/media/avatars/gilda_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "raindrops"
+                }
+            ],
+            "name_full": "Raindrops",
+            "price": 50,
+            "img": "/gemplace/media/avatars/raindrops_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spitfire"
+                }
+            ],
+            "name_full": "Spitfire",
+            "price": 50,
+            "img": "/gemplace/media/avatars/spitfire_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spitfire2"
+                }
+            ],
+            "name_full": "Spitfire (Without suit)",
+            "price": 50,
+            "img": "/gemplace/media/avatars/spitfire2_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "soarin"
+                }
+            ],
+            "name_full": "Soarin'",
+            "price": 50,
+            "img": "/gemplace/media/avatars/soarin_right.gif"
+        }
+    ],
+    "canterlot": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "shiningarmor"
+                }
+            ],
+            "name_full": "Shining Armor",
+            "price": 40,
+            "img": "/gemplace/media/avatars/shiningarmor_stand_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "chrysalis"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "changeling"
+                }
+            ],
+            "name_full": "Queen Chrysalis and Changeling",
+            "price": 100,
+            "img": "/gemplace/media/avatars/chrysalis_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "cadence"
+                }
+            ],
+            "name_full": "Princess Cadence",
+            "price": 50,
+            "img": "/gemplace/media/avatars/cadence-stand-right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bigcelestia"
+                }
+            ],
+            "name_full": "Princess Celestia",
+            "price": 50,
+            "img": "/gemplace/media/avatars/bigcelestia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "princesstwilight"
+                }
+            ],
+            "name_full": "Princess Twilight Sparkle",
+            "price": 50,
+            "img": "/gemplace/media/avatars/p-twi-idle-left.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "celestia"
+                }
+            ],
+            "name_full": "Young Celestia",
+            "price": 50,
+            "img": "/gemplace/media/avatars/celestia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillycelestia"
+                }
+            ],
+            "name_full": "Filly Celestia",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillycelestia_right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "blueblood"
+                }
+            ],
+            "name_full": "Prince Blueblood",
+            "price": 50,
+            "img": "/gemplace/media/avatars/blueblood-idle-right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "nightmaremoon"
+                }
+            ],
+            "name_full": "Nightmare Moon",
+            "price": 50,
+            "img": "/gemplace/media/avatars/nightmaremoon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "luna2"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "luna"
+                }
+            ],
+            "name_full": "Princesa Luna (Season 1 and 2)",
+            "price": 50,
+            "img": "/gemplace/media/avatars/luna_idle_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyluna"
+                }
+            ],
+            "name_full": "Filly Princess Luna",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillyluna_right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sunsetshimmer"
+                }
+            ],
+            "name_full": "Sunset Shimmer",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/sunsetshimmer-idle-right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "flashsentry"
+                }
+            ],
+            "name_full": "Flash Sentry",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/flashsentry-idle-right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "royalguard"
+                }
+            ],
+            "name_full": "Royal Guard",
+            "price": 50,
+            "img": "/gemplace/media/avatars/royalguard_right.gif"
+        }
+    ],
+    "sweet_apple_acres": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "braeburn"
+                }
+            ],
+            "name_full": "Braeburn",
+            "price": 50,
+            "img": "/gemplace/media/avatars/braeburn_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyapplejack"
+                }
+            ],
+            "name_full": "Filly Applejack",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillyapplejack_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "winona"
+                }
+            ],
+            "name_full": "Winona",
+            "price": 50,
+            "img": "/gemplace/media/avatars/winona_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bigmacintosh"
+                }
+            ],
+            "name_full": "Big Macintosh",
+            "price": 50,
+            "img": "/gemplace/media/avatars/bigmacintosh_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "grannysmith"
+                }
+            ],
+            "name_full": "Granny Smith",
+            "price": 50,
+            "img": "/gemplace/media/avatars/grannysmith_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "applebloom"
+                }
+            ],
+            "name_full": "Applebloom",
+            "price": 50,
+            "img": "/gemplace/media/avatars/applebloom_right.gif"
+        }
+    ],
+    "carousel_boutique": [
+        {
+            "items": [
+                {
+                     "type": "inventory_item",
+                     "item_name": "effect_shrink"
+                 },
+                 {
+                     "type": "inventory_item",
+                     "item_name": "effect_unshrink"
+                 }
+             ],
+             "name_full": "Shrink Avatar",
+             "price": 200,
+             "img": "/gemplace/media/items/effect-shrink.png"
+         },
+         {
+             "items": [
+                 {
+                    "type": "avatar",
+                    "avatar_name": "lotus"
+                }
+            ],
+            "name_full": "Lotus",
+            "price": 35,
+            "img": "/gemplace/media/avatars/lotus_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "aloe"
+                }
+            ],
+            "name_full": "Aloe",
+            "price": 35,
+            "img": "/gemplace/media/avatars/aloe_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "screwball"
+                }
+            ],
+            "name_full": "Screwball",
+            "price": 25,
+            "img": "/gemplace/media/avatars/screwball_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_cherry_jubilees_guest_room"
+                }
+            ],
+            "name_full": "Cherry Jubilee's guest room",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/cherry-jubilees-guest-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_pinkies_room"
+                }
+            ],
+            "name_full": "Pinkie's room",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/pinkies-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_canterlot_bedroom"
+                }
+            ],
+            "name_full": "Canterlot Bedroom",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/canterlot-bedroom.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_dashies_bedroom"
+                }
+            ],
+            "name_full": "Dashie's bedroom",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/dashies-bedroom.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_shining_armors_apartments"
+                }
+            ],
+            "name_full": "Shining Armor's Apartments",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/shining-armors-apartments.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_princess_celestias_room"
+                }
+            ],
+            "name_full": "Princess Celestia's Room",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/princess-celestias-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_madam_pinkies_tent"
+                }
+            ],
+            "name_full": "Madam Pinkie's Tent",
+            "price": 500,
+            "img": "/gemplace/media/rooms/house/madam-pinkies-tent.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "nurseredheart"
+                }
+            ],
+            "name_full": "Nurse Redheart",
+            "price": 50,
+            "img": "/gemplace/media/avatars/nurseredheart_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "vinylscratch"
+                }
+            ],
+            "name_full": "Vinyl Scratch",
+            "price": 50,
+            "img": "/gemplace/media/avatars/vinylscratch_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "octavia"
+                }
+            ],
+            "name_full": "Octavia",
+            "price": 50,
+            "img": "/gemplace/media/avatars/octavia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "maredowell"
+                }
+            ],
+            "name_full": "Mare-do-well",
+            "price": 50,
+            "img": "/gemplace/media/avatars/maredowell_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "carrottop"
+                }
+            ],
+            "name_full": "Carrot Top",
+            "price": 50,
+            "img": "/gemplace/media/avatars/carrottop_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "colgate"
+                }
+            ],
+            "name_full": "Colgate",
+            "price": 50,
+            "img": "/gemplace/media/avatars/colgate_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "doctorwhooves"
+                }
+            ],
+            "name_full": "Doctor Whooves",
+            "price": 50,
+            "img": "/gemplace/media/avatars/doctorwhooves_hourglass_twirl.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyrainbowdash"
+                }
+            ],
+            "name_full": "Filly Rainbow Dash",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillyrainbowdash_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "tank"
+                }
+            ],
+            "name_full": "Tank",
+            "price": 50,
+            "img": "/gemplace/media/avatars/tank_right_hover.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "daringdo"
+                }
+            ],
+            "name_full": "Daring Do",
+            "price": 50,
+            "img": "/gemplace/media/avatars/daringdo_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "photofinish"
+                }
+            ],
+            "name_full": "Photo Finish",
+            "price": 50,
+            "img": "/gemplace/media/avatars/photofinish_right.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillytwilight"
+                }
+            ],
+            "name_full": "Filly Twilight Sparkle",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillytwilight_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyrarity"
+                }
+            ],
+            "name_full": "Filly Rarity",
+            "price": 50,
+            "img": "/gemplace/media/avatars/fillyrarity_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "opalescence"
+                }
+            ],
+            "name_full": "Opalescence",
+            "price": 50,
+            "img": "/gemplace/media/avatars/opalescence_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "berrypunch"
+                }
+            ],
+            "name_full": "Berry Punch",
+            "price": 50,
+            "img": "/gemplace/media/avatars/berrypunch_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bonbon"
+                }
+            ],
+            "name_full": "Bon Bon",
+            "price": 50,
+            "img": "/gemplace/media/avatars/bonbon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lyra"
+                }
+            ],
+            "name_full": "Lyra Heartstrings",
+            "price": 50,
+            "img": "/gemplace/media/avatars/lyra_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "trixie"
+                }
+            ],
+            "name_full": "THE GRREAT AND POWERFUL TRRRRIXIE",
+            "price": 50,
+            "img": "/gemplace/media/avatars/trixie_right.gif"
+        }
+    ]
+}

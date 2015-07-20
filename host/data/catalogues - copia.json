@@ -1,0 +1,827 @@
+{
+    "sugarcube_corner": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "crazypie"
+                }
+            ],
+            "name_full": "Pinkamena Diane Pie",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/crazypie_right.gif"
+        },
+                {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "poundcake"
+                }
+            ],
+            "name_full": "Pound Cake",
+            "price": 27,
+            "img": "/ponyplace/media/avatars/poundcake-blinksl.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillypinkiepie"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillypinkiepie2"
+                }
+            ],
+            "name_full": "Pequeña Pinkie Pie",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillypinkiepie_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "gummy"
+                }
+            ],
+            "name_full": "Gummy",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/gummy_right.gif"
+        }
+    ],
+    "dungeon": [
+        {
+            "name_full": "2700000000 bits gratis",
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "3000_bits_free"
+                }
+            ],
+            "price": -27000000000,
+            "img": "/ponyplace/media/store/free-bits.png"
+        },
+        {
+            "name_full": "Perros Diamante(Incluidos todos)",
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fido"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "rover"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "spot"
+                }
+            ],
+            "price": 100,
+            "img": "/ponyplace/media/avatars/rover_right_walk_threaten.gif"
+        }
+    ],
+    "discordville": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "discord"
+                }
+            ],
+            "name_full": "Discord",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/discord_right.gif"
+        }
+    ],
+	"fluttershycottage": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "angel"
+                }
+            ],
+            "name_full": "Angel",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/angel_right.gif"
+        },
+		{
+		    "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyfluttershy"
+                }
+            ],
+            "name_full": "Pequeña Fluttershy",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillyfluttershy_right.gif"
+        }
+    ],
+    "library": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spike"
+                }
+            ],
+            "name_full": "Spike",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/spike_right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "owlowiscious"
+                }
+            ],
+            "name_full": "Owlowiscious",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/owlowiscious_idle_right.gif"
+        }
+    ],
+	"everfree": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "manticore"
+                }
+            ],
+            "name_full": "Manticora",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/manticore-idle-right.gif"
+        }
+    ],
+    "zecoras_house": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "zecora"
+                }
+            ],
+            "name_full": "Zecora",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/zecora_right.gif"
+        }
+    ],
+    "classroom": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "snips"
+                }
+            ],
+            "name_full": "Snips",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/snips_stand_left.gif"
+        },        
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "snails"
+                }
+            ],
+            "name_full": "Snails",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/snails_stand_left.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "cheerilee"
+                }
+            ],
+            "name_full": "Cheerilee",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/cheerilee_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "diamondtiara"
+                }
+            ],
+            "name_full": "Diamond Tiara",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/diamondtiara_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "silverspoon"
+                }
+            ],
+            "name_full": "Silver Spoon",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/silverspoon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "scootaloo"
+                }
+            ],
+            "name_full": "Scootaloo",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/scootaloo_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "sweetiebelle"
+                }
+            ],
+            "name_full": "Sweetie Belle",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/sweetiebelle_right.gif"
+        }
+    ],
+    "cloudsdale": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "gilda"
+                }
+            ],
+            "name_full": "Gilda",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/gilda_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "raindrops"
+                }
+            ],
+            "name_full": "Raindrops",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/raindrops_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spitfire"
+                }
+            ],
+            "name_full": "Spitfire",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/spitfire_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "spitfire2"
+                }
+            ],
+            "name_full": "Spitfire (Sin traje)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/spitfire2_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "soarin"
+                }
+            ],
+            "name_full": "Soarin'",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/soarin_right.gif"
+        }
+    ],
+    "canterlot": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "shiningarmor"
+                }
+            ],
+            "name_full": "Shining Armor",
+            "price": 40,
+            "img": "/ponyplace/media/avatars/shiningarmor_stand_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "chrysalis"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "changeling"
+                }
+            ],
+            "name_full": "Reina Chrysalis y Changeling",
+            "price": 100,
+            "img": "/ponyplace/media/avatars/chrysalis_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "cadence"
+                }
+            ],
+            "name_full": "Princesa Cadence",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/cadence-stand-right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bigcelestia"
+                }
+            ],
+            "name_full": "Princesa Celestia",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/bigcelestia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "princesstwilight"
+                }
+            ],
+            "name_full": "Princesa Twilight Sparkle",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/p-twi-idle-left.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "celestia"
+                }
+            ],
+            "name_full": "Princesa Celestia Joven",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/celestia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillycelestia"
+                }
+            ],
+            "name_full": "Pequeña Princesa Celestia",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillycelestia_right.gif"
+        },
+		{
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "blueblood"
+                }
+            ],
+            "name_full": "Príncipe Blueblood",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/blueblood-idle-right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "nightmaremoon"
+                }
+            ],
+            "name_full": "Nightmare Moon",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/nightmaremoon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "luna2"
+                },
+                {
+                    "type": "avatar",
+                    "avatar_name": "luna"
+                }
+            ],
+            "name_full": "Princesa Luna (Temporada 1 y 2)",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/luna_idle_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyluna"
+                }
+            ],
+            "name_full": "Pequeña Princesa Luna",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillyluna_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "royalguard"
+                }
+            ],
+            "name_full": "Guardia Real",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/royalguard_right.gif"
+        }
+    ],
+    "sweet_apple_acres": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "braeburn"
+                }
+            ],
+            "name_full": "Braeburn",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/braeburn_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyapplejack"
+                }
+            ],
+            "name_full": "Pequeña Applejack",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillyapplejack_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "winona"
+                }
+            ],
+            "name_full": "Winona",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/winona_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bigmacintosh"
+                }
+            ],
+            "name_full": "Big Macintosh",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/bigmacintosh_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "grannysmith"
+                }
+            ],
+            "name_full": "Abuela Smith",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/grannysmith_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "applebloom"
+                }
+            ],
+            "name_full": "Applebloom",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/applebloom_right.gif"
+        }
+    ],
+    "carousel_boutique": [
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lotus"
+                }
+            ],
+            "name_full": "Lotus",
+            "price": 35,
+            "img": "/ponyplace/media/avatars/lotus_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "aloe"
+                }
+            ],
+            "name_full": "Aloe",
+            "price": 35,
+            "img": "/ponyplace/media/avatars/aloe_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "screwball"
+                }
+            ],
+            "name_full": "Screwball",
+            "price": 25,
+            "img": "/ponyplace/media/avatars/screwball_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_cherry_jubilees_guest_room"
+                }
+            ],
+            "name_full": "Sala de estar de Cherry Jubilee",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/cherry-jubilees-guest-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_pinkies_room"
+                }
+            ],
+            "name_full": "Sala de Pinkie",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/pinkies-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_canterlot_bedroom"
+                }
+            ],
+            "name_full": "Habitación de Canterlot",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/canterlot-bedroom.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_dashies_bedroom"
+                }
+            ],
+            "name_full": "Habitación de Dashie",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/dashies-bedroom.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_shining_armors_apartments"
+                }
+            ],
+            "name_full": "Apartamento de Shining Armor",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/shining-armors-apartments.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_princess_celestias_room"
+                }
+            ],
+            "name_full": "Habitación de la Princesa Celestia",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/princess-celestias-room.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "inventory_item",
+                    "item_name": "roombg_madam_pinkies_tent"
+                }
+            ],
+            "name_full": "Tienda de Madame Pinkie",
+            "price": 500,
+            "img": "/ponyplace/media/rooms/house/madam-pinkies-tent.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "nurseredheart"
+                }
+            ],
+            "name_full": "Enfermera Redheart",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/nurseredheart_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "vinylscratch"
+                }
+            ],
+            "name_full": "Vinyl Scratch",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/vinylscratch_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "octavia"
+                }
+            ],
+            "name_full": "Octavia",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/octavia_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "maredowell"
+                }
+            ],
+            "name_full": "La Misteriosa Yegua Bienhechora",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/maredowell_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "carrottop"
+                }
+            ],
+            "name_full": "Carrot Top",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/carrottop_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "colgate"
+                }
+            ],
+            "name_full": "Colgate",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/colgate_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "doctorwhooves"
+                }
+            ],
+            "name_full": "Doctor Whooves",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/doctorwhooves_hourglass_twirl.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyrainbowdash"
+                }
+            ],
+            "name_full": "Pequeña Rainbow Dash",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillyrainbowdash_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "tank"
+                }
+            ],
+            "name_full": "Tanque",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/tank_right_hover.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "daringdo"
+                }
+            ],
+            "name_full": "Daring Do",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/daringdo_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "photofinish"
+                }
+            ],
+            "name_full": "Photo Finish",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/photofinish_right.png"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillytwilight"
+                }
+            ],
+            "name_full": "Pequeña Twilight Sparkle",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillytwilight_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "fillyrarity"
+                }
+            ],
+            "name_full": "Pequeña Rarity",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/fillyrarity_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "opalescence"
+                }
+            ],
+            "name_full": "Opalescence",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/opalescence_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "berrypunch"
+                }
+            ],
+            "name_full": "Berry Punch",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/berrypunch_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "bonbon"
+                }
+            ],
+            "name_full": "Bonbon",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/bonbon_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "lyra"
+                }
+            ],
+            "name_full": "Lyra Heartstrings",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/lyra_right.gif"
+        },
+        {
+            "items": [
+                {
+                    "type": "avatar",
+                    "avatar_name": "trixie"
+                }
+            ],
+            "name_full": "La Gran y Poderosa Trixie",
+            "price": 50,
+            "img": "/ponyplace/media/avatars/trixie_right.gif"
+        }
+    ]
+}

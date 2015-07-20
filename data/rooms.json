@@ -1,0 +1,1029 @@
+[
+	    {
+        "type": "real",
+        "name": "outsidecrystaltemple",
+        "name_full": "Outside Crystal Temple",
+        "thumbnail": "http://i.imgur.com/VpFxUy9.jpg",
+        "background": {
+            "data": "http://i.imgur.com/VpFxUy9.jpg",
+            "width": 1280,
+            "height": 759
+        },
+        "widgets": [{
+                "left": 550,
+                "top": 240,
+                "width": 100,
+                "height": 100,
+                "type": "portal",
+                "to": "insidecrystaltemple"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "crystal gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "insidecrystaltemple",
+        "name_full": "Inside Crystal Temple",
+        "thumbnail": "http://i.imgur.com/4e7JEn2.jpg",
+        "background": {
+            "data": "http://i.imgur.com/4e7JEn2.jpg",
+            "width": 1280,
+            "height": 597
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "crystalgems"
+            },
+			{
+                "left": 0,
+                "top": 500,
+                "width": 120,
+                "height": 100,
+                "type": "portal",
+                "to": "insidecrystaltemple2"
+            },
+			{
+                "left": 10,
+                "top": 190,
+                "width": 100,
+                "height": 230,
+                "type": "portal",
+                "to": "outsidecrystaltemple"
+            },
+			{
+                "left": 340,
+                "top": 100,
+                "width": 200,
+                "height": 100,
+                "type": "portal",
+                "to": "stevensroom"
+            },
+			{
+                "left": 1170,
+                "top": 280,
+                "width": 120,
+                "height": 100,
+                "type": "portal",
+                "to": "warppad"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "crystal gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "insidecrystaltemple2",
+        "name_full": "Inside Crystal Temple 2",
+        "thumbnail": "http://i.imgur.com/gS1q4AD.jpg",
+        "background": {
+            "data": "http://i.imgur.com/gS1q4AD.jpg",
+            "width": 1280,
+            "height": 721
+        },
+        "widgets": [
+			{
+                "left": 1200,
+                "top": 363,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "insidecrystaltemple"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "crystal gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "homeworld",
+        "name_full": "Homeworld",
+        "thumbnail": "http://i.imgur.com/OcQglNO.jpg",
+        "background": {
+            "data": "http://i.imgur.com/OcQglNO.jpg",
+            "width": 1920,
+            "height": 1200
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "homeworldgems"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "homeworld gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "beachcity1",
+        "name_full": "Beach City",
+        "thumbnail": "http://i.imgur.com/hqcn7la.png",
+        "background": {
+            "data": "http://i.imgur.com/hqcn7la.png",
+            "width": 1280,
+            "height": 441
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "humans1"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "humans",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "smoll",
+        "name_full": "SMOLL and old",
+        "thumbnail": "http://i.imgur.com/piMuYRf.jpg",
+        "background": {
+            "data": "http://i.imgur.com/piMuYRf.jpg",
+            "width": 1280,
+            "height": 828
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "smoll"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "smolls",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "fusionroom",
+        "name_full": "Fusion Room",
+        "thumbnail": "http://i.imgur.com/UXNEduO.jpg",
+        "background": {
+            "data": "http://i.imgur.com/UXNEduO.jpg",
+            "width": 1280,
+            "height": 720
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "fusiongems"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "fusion gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "stevensroom",
+        "name_full": "Steven's Room",
+        "thumbnail": "http://i.imgur.com/5TomqMJ.jpg",
+        "background": {
+            "data": "http://i.imgur.com/5TomqMJ.jpg",
+            "width": 1280,
+            "height": 487
+        },
+        "widgets": [
+			{
+                "left": 0,
+                "top": 212,
+                "width": 80,
+                "height": 100,
+                "type": "portal",
+                "to": "insidecrystaltemple"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "half-gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "warppad",
+        "name_full": "Warp Pad",
+        "thumbnail": "http://i.imgur.com/NNP9dLY.jpg",
+        "background": {
+            "data": "http://i.imgur.com/NNP9dLY.jpg",
+            "width": 1280,
+            "height": 469
+        },
+        "widgets": [
+			{
+                "left": 500,
+                "top": 450,
+                "width": 200,
+                "height": 100,
+                "type": "portal",
+                "to": "insidecrystaltemple"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "warped gems",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "spookyroom",
+        "name_full": "Spooky",
+        "thumbnail": "http://i.imgur.com/RlbdDqW.png",
+        "background": {
+            "data": "http://i.imgur.com/RlbdDqW.png",
+            "width": 1276,
+            "height": 793
+        },
+        "widgets": [
+			{
+                "left": 0,
+                "top": 0,
+                "width": 1276,
+                "height": 793,
+                "type": "party"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "spooky"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "spooky scary skeletons",
+        "unlisted": false
+    },
+	    {
+        "type": "real",
+        "name": "warehouse",
+        "name_full": "Cool Kids Warehouse",
+        "thumbnail": "http://i.imgur.com/Pw1rVOE.png",
+        "background": {
+            "data": "http://i.imgur.com/Pw1rVOE.png",
+            "width": 2268,
+            "height": 900
+        },
+        "widgets": [
+			{
+                "left": 0,
+                "top": 0,
+                "width": 2268,
+                "height": 900,
+                "type": "party2"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "coolkids"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "ravers",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": " party_barn",
+        "name_full": "NOPENOPENOPE",
+        "thumbnail": "/gemplace/media/rooms/party-barn-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/party-barn.png",
+            "width": 1152,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 0,
+                "width": 1152,
+                "height": 660,
+                "type": "party"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "NOPENOPES",
+		"unlisted": true
+    },
+	    {
+        "type": "real",
+        "name": "lake",
+        "name_full": "Lake",
+        "thumbnail": "/gemplace/media/rooms/lago-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/lago.png",
+            "width": 1024,
+            "height": 592
+        },
+        "widgets": [
+            {}
+        ],
+        "user_count": 0,
+        "user_noun": "fishing ponies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "discordville",
+        "name_full": "Discordville",
+        "thumbnail": "/gemplace/media/rooms/discordville-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/discordville.png",
+            "width": 1183,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "discordville"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "chocomilk raindrops",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "ponyville",
+        "name_full": "Ponyville",
+        "thumbnail": "/gemplace/media/rooms/ponyville-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/ponyville.png",
+            "width": 1445,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 815,
+                "top": 370,
+                "width": 280,
+                "height": 145,
+                "type": "portal",
+                "to": "sweet_apple_acres"
+            },
+            {
+                "left": 1325,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "outside_library"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "ponies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "outside_library",
+        "name_full": "Outside Library",
+        "thumbnail": "/gemplace/media/rooms/outside-library-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/outside-library.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 555,
+                "top": 452,
+                "width": 98,
+                "height": 130,
+                "type": "portal",
+                "to": "library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "library"
+            },
+            {
+                "left": 1020,
+                "top": 330,
+                "width": 153,
+                "height": 330,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 0,
+                "top": 330,
+                "width": 130,
+                "height": 330,
+                "type": "portal",
+                "to": "ponyville"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "bookies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "library",
+        "thumbnail": "/gemplace/media/rooms/library-thumb.png",
+        "name_full": "Library",
+        "background": {
+            "data": "/ponyplace/media/rooms/library.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 390,
+                "top": 0,
+                "width": 130,
+                "height": 42,
+                "type": "portal",
+                "to": "outside_library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "library"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "eggheads",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "outside_sugarcube_corner",
+        "name_full": "Outside Sugarcube Corner",
+        "thumbnail": "/gemplace/media/rooms/outside-sugarcubecorner-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/outside-sugarcubecorner.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 578,
+                "top": 512,
+                "width": 55,
+                "height": 96,
+                "type": "portal",
+                "to": "sugarcube_corner"
+            },
+            {
+                "left": 1048,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "ponyville"
+            },
+            {
+                "left": 0,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "outside_library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "sugarcube_corner"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "party animals",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "sugarcube_corner",
+        "name_full": "Sugarcube Corner",
+        "thumbnail": "/gemplace/media/rooms/sugarcubecorner-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/sugarcubecorner.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 120,
+                "top": 225,
+                "width": 95,
+                "height": 165,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "sugarcube_corner"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "party ponies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "carousel_boutique",
+        "name_full": "Carousel Boutique",
+        "thumbnail": "/gemplace/media/rooms/carousel-boutique-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/carousel-boutique.png",
+            "width": 1159,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 114,
+                "top": 180,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "carousel_boutique"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "fashion ponies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "classroom",
+        "name_full": "Cheerile's Classroom",
+        "thumbnail": "/gemplace/media/rooms/classroom.png",
+        "background": {
+            "data": "/gemplace/media/rooms/classroom.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "classroom"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "eager students",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "sweet_apple_acres",
+        "name_full": "Sweet Apple Acres",
+        "thumbnail": "/gemplace/media/rooms/sweet-apple-acres2-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/sweet-apple-acres2.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "ponyville"
+            },
+            {
+                "left": 900,
+                "top": 400,
+                "width": 260,
+                "height": 240,
+                "type": "catalogue",
+                "catalogue_name": "sweet_apple_acres"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Apples",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "everfree_forest",
+        "name_full": "Everfree forest",
+        "thumbnail": "/gemplace/media/rooms/everfreeforest-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/everfreeforest.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 0,
+                "width": 130,
+                "height": 215,
+                "type": "portal",
+                "to": "zecoras_house"
+            },
+			{
+                "left": 1118,
+                "top": 362,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "fluttershycottage"
+            },
+			{
+                "left": 860,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "everfree"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "scared fillies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "zecoras_house",
+        "name_full": "Zecora's house",
+        "thumbnail": "/gemplace/media/rooms/zecoras-house2-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/zecoras-house2.png",
+            "width": 1175,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 1065,
+                "top": 230,
+                "width": 110,
+                "height": 255,
+                "type": "portal",
+                "to": "everfree_forest"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "zecoras_house"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "rhyming zebras",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "cloudsdale",
+        "name_full": "Cloudsdale",
+        "thumbnail": "/gemplace/media/rooms/cloudsdale-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/cloudsdale.png",
+            "width": 1213,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 440,
+                "width": 236,
+                "height": 60,
+                "type": "portal",
+                "to": "ponyville"
+            },
+			{
+                "left": 1155,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "academy"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "cloudsdale"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "pegasi",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "canterlot",
+        "name_full": "Canterlot",
+        "thumbnail": "/gemplace/media/rooms/canterlot-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/canterlot.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "canterlot"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "posh ponies",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "dungeon",
+        "name_full": "Dungeon",
+        "thumbnail": "/gemplace/media/rooms/dungeon-thumb.jpg",
+        "background": {
+            "data": "/gemplace/media/rooms/dungeon.jpg",
+            "width": 1280,
+            "height": 856
+        },
+        "widgets": [
+            {
+                "left": 483,
+                "top": 45,
+                "width": 260,
+                "height": 200,
+                "type": "catalogue",
+                "catalogue_name": "dungeon"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "prisoners",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "crystal_kingdom",
+        "name_full": "Crystal Kingdom",
+        "thumbnail": "/gemplace/media/rooms/crystal-kingdom-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/crystal-kingdom.png",
+            "width": 1320,
+            "height": 660
+		},	
+		"widgets": [
+            {
+                "left": 0,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "crystal_empire_spa"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "crystal <3s",
+        "unlisted": true
+    },
+	    {
+        "type": "real",
+        "name": "crystal_empire_spa",
+        "name_full": "Crystal Empire Spa",
+        "thumbnail": "/gemplace/media/rooms/crystal_empire_spa_thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/crystal_empire_spa.png",
+            "width": 1191,
+            "height": 670
+        },
+	        "widgets": [
+            {
+                "left": 1155,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "crystal_kingdom"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "crystal ponies",
+        "unlisted": true
+},
+    {
+        "type": "real",
+        "name": "partyroom",
+        "name_full": "Party Barn",
+        "thumbnail": "/gemplace/media/rooms/party-barn-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/party-barn.png",
+            "width": 1183,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 0,
+                "width": 1152,
+                "height": 660,
+                "type": "party"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "super party ponies",
+        "unlisted": true
+    },
+	    {
+        "type": "real",
+        "name": "fluttershycottage",
+        "name_full": "Fluttershy's Cottage",
+        "thumbnail": "/gemplace/media/rooms/fluttershycottage-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/fluttershycottage.png",
+            "width": 1183,
+            "height": 660
+		},	
+		"widgets": [
+            {
+                "left": 0,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "everfree_forest"
+            },            
+			{
+                "left": 1120,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "pradera"
+            },
+			{
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "fluttershycottage"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "pet lovers",
+        "unlisted": true
+    },
+		    {
+        "type": "real",
+        "name": "grassland",
+        "name_full": "Grassland",
+        "thumbnail": "/gemplace/media/rooms/pradera-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/pradera.png",
+            "width": 1183,
+            "height": 660
+		},	
+		"widgets": [
+            {
+                "left": 0,
+                "top": 363,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "fluttershycottage"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "ponies looking for flowers",
+        "unlisted": true
+    },
+		    {
+        "type": "real",
+        "name": "academy",
+        "name_full": "Wonderbolts Academy",
+        "thumbnail": "/gemplace/media/rooms/academythumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/academy.png",
+            "width": 1183,
+            "height": 660
+		},	
+		"widgets": [
+            {
+                "left": 0,
+                "top": 363,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "cloudsdale"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Wonderbolts",
+        "unlisted": true
+    },
+	{
+        "type": "real",
+        "name": "eqgdisco",
+        "name_full": "Equestria Girls Disco",
+        "thumbnail": "/ponyplace/media/rooms/eqgdisco-thumb.png",
+        "background": {
+            "data": "/ponyplace/media/rooms/eqgdisco.png",
+            "width": 1122,
+            "height": 725
+        },
+        "widgets": [
+            {
+                "left": 850,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "eqg"
+            },
+			{
+                "left": 0,
+                "top": 0,
+                "width": 1122,
+                "height": 725,
+                "type": "party"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Humans",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "credits",
+        "name_full": "gemplace credits",
+        "thumbnail": "/gemplace/media/rooms/cave-thumb.png",
+        "background": {
+            "data": "/gemplace/media/rooms/cave.png",
+            "width": 1280,
+            "height": 747
+        },
+        "widgets": [
+            {
+                "left": 280,
+                "top": 80,
+                "width": 600,
+                "height": 500,
+                "type": "iframe",
+                "src": "/gemplace/credits.html"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "inquiring minds",
+        "unlisted": false
+    }
+]

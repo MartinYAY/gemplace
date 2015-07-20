@@ -1,0 +1,520 @@
+[
+    {
+        "type": "real",
+        "name": " party_barn",
+        "name_full": "SALA QUE NO FUNCIONA",
+        "thumbnail": "/ponyplacepro/media/rooms/party-barn-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/party-barn.png",
+            "width": 1152,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 0,
+                "width": 1152,
+                "height": 660,
+                "type": "party"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "IDIOTAS QUE ENTRAN ¬¬",
+		"unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "discordville",
+        "name_full": "Discordville",
+        "thumbnail": "/ponyplacepro/media/rooms/discordville-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/discordville.png",
+            "width": 1183,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "discordville"
+            }
+        ],
+        "user_count": 27,
+        "user_noun": "Gotas de lluvia de chocolate",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "ponyville",
+        "name_full": "Ponyville",
+        "thumbnail": "/ponyplacepro/media/rooms/ponyville-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/ponyville.png",
+            "width": 1445,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 815,
+                "top": 370,
+                "width": 280,
+                "height": 145,
+                "type": "portal",
+                "to": "sweet_apple_acres"
+            },
+            {
+                "left": 1325,
+                "top": 360,
+                "width": 120,
+                "height": 300,
+                "type": "portal",
+                "to": "outside_library"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "ponies",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "outside_library",
+        "name_full": "La Libreria",
+        "thumbnail": "/ponyplacepro/media/rooms/outside-library-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/outside-library.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 555,
+                "top": 452,
+                "width": 98,
+                "height": 130,
+                "type": "portal",
+                "to": "library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "library"
+            },
+            {
+                "left": 1020,
+                "top": 330,
+                "width": 153,
+                "height": 330,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 0,
+                "top": 330,
+                "width": 130,
+                "height": 330,
+                "type": "portal",
+                "to": "ponyville"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Cerebritos",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "library",
+        "thumbnail": "/ponyplacepro/media/rooms/library-thumb.png",
+        "name_full": "Dentro de la Libreria",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/library.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 390,
+                "top": 0,
+                "width": 130,
+                "height": 42,
+                "type": "portal",
+                "to": "outside_library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "library"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Cerebritos",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "outside_sugarcube_corner",
+        "name_full": "Sugarcube Corner",
+        "thumbnail": "/ponyplacepro/media/rooms/outside-sugarcubecorner-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/outside-sugarcubecorner.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 578,
+                "top": 512,
+                "width": 55,
+                "height": 96,
+                "type": "portal",
+                "to": "sugarcube_corner"
+            },
+            {
+                "left": 1048,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "ponyville"
+            },
+            {
+                "left": 0,
+                "top": 330,
+                "width": 125,
+                "height": 330,
+                "type": "portal",
+                "to": "outside_library"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "sugarcube_corner"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "FIESTEROS",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "sugarcube_corner",
+        "name_full": "Dentro de Sugarcube Corner",
+        "thumbnail": "/ponyplacepro/media/rooms/sugarcubecorner-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/sugarcubecorner.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+		    {
+                "left": 760,
+                "top": 280,
+                "width": 400,
+                "height": 370,
+                "type": "iframe",
+                "src": "http://25.221.105.31/ponyplacepro/php/video1.php?embed"
+            },
+            {
+                "left": 120,
+                "top": 225,
+                "width": 95,
+                "height": 165,
+                "type": "portal",
+                "to": "outside_sugarcube_corner"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "sugarcube_corner"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "FIESTEROS",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "carousel_boutique",
+        "name_full": "Boutique Carrusel",
+        "thumbnail": "/ponyplacepro/media/rooms/carousel-boutique-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/carousel-boutique.png",
+            "width": 1159,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 114,
+                "top": 180,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "carousel_boutique"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Ponis Fashions",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "classroom",
+        "name_full": "Clase de Cheerilee",
+        "thumbnail": "/ponyplacepro/media/rooms/classroom.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/classroom.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 760,
+                "top": 280,
+                "width": 400,
+                "height": 370,
+                "type": "iframe",
+                "src": "http://berrypunch.net/stats.php?embed"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "classroom"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Estudiantes",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "sweet_apple_acres",
+        "name_full": "Sweet Apple Acres",
+        "thumbnail": "/ponyplacepro/media/rooms/sweet-apple-acres-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/sweet-apple-acres.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 580,
+                "top": 420,
+                "width": 230,
+                "height": 125,
+                "type": "portal",
+                "to": "ponyville"
+            },
+            {
+                "left": 900,
+                "top": 400,
+                "width": 260,
+                "height": 240,
+                "type": "catalogue",
+                "catalogue_name": "sweet_apple_acres"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Manzanitas",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "everfree_forest",
+        "name_full": "Bosque Everfree",
+        "thumbnail": "/ponyplacepro/media/rooms/everfreeforest-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/everfreeforest.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 0,
+                "width": 130,
+                "height": 215,
+                "type": "portal",
+                "to": "zecoras_house"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Ponis asustados",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "zecoras_house",
+        "name_full": "Casa de Zecora",
+        "thumbnail": "/ponyplacepro/media/rooms/zecoras-house2-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/zecoras-house2.png",
+            "width": 1175,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 1065,
+                "top": 230,
+                "width": 110,
+                "height": 255,
+                "type": "portal",
+                "to": "everfree_forest"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 180,
+                "type": "catalogue",
+                "catalogue_name": "zecoras_house"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Zebras que riman",
+        "unlisted": true
+    },
+    {
+        "type": "real",
+        "name": "cloudsdale",
+        "name_full": "Cloudsdale",
+        "thumbnail": "/ponyplacepro/media/rooms/cloudsdale-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/cloudsdale.png",
+            "width": 1213,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 0,
+                "top": 440,
+                "width": 236,
+                "height": 60,
+                "type": "portal",
+                "to": "canterlot"
+            },
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "cloudsdale"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Wonderbolts",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "canterlot",
+        "name_full": "Canterlot",
+        "thumbnail": "/ponyplacepro/media/rooms/canterlot-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/canterlot.png",
+            "width": 1173,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 900,
+                "top": 10,
+                "width": 260,
+                "height": 260,
+                "type": "catalogue",
+                "catalogue_name": "canterlot"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Ponis de clase alta",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "dungeon",
+        "name_full": "Dungeon",
+        "thumbnail": "/ponyplacepro/media/rooms/dungeon-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/dungeon.png",
+            "width": 1176,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 483,
+                "top": 45,
+                "width": 260,
+                "height": 200,
+                "type": "catalogue",
+                "catalogue_name": "dungeon"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Prisioneros",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "crystal_kingdom",
+        "name_full": "Imperio de Cristal",
+        "thumbnail": "/ponyplacepro/media/rooms/crystal-kingdom-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/crystal-kingdom.png",
+            "width": 1320,
+            "height": 660
+        },
+        "widgets": [],
+        "user_count": 0,
+        "user_noun": "Cristales",
+        "unlisted": false
+    },
+    {
+        "type": "real",
+        "name": "credits",
+        "name_full": "Creditos de ponyplace",
+        "thumbnail": "/ponyplacepro/media/rooms/cave-thumb.png",
+        "background": {
+            "data": "/ponyplacepro/media/rooms/cave.png",
+            "width": 960,
+            "height": 660
+        },
+        "widgets": [
+            {
+                "left": 280,
+                "top": 80,
+                "width": 600,
+                "height": 500,
+                "type": "iframe",
+                "src": "/ponyplacepro/credits.html"
+            }
+        ],
+        "user_count": 0,
+        "user_noun": "Mentes inquisidoras",
+        "unlisted": false
+    }
+]
